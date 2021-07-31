@@ -1,6 +1,9 @@
 #ifndef SPACETRUCKIN
 #define SPACETRUCKIN
 
+#include <stdio.h>
+#include <math.h>
+
 /**
  * comp - structure to store complex numbers
  * @re: real number
